@@ -1,4 +1,5 @@
 - ujikon internal
 - ujikom eksternal
+- MPPS
 - ujian sekolah
 - praktek kerja lapangan
